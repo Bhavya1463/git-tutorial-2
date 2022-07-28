@@ -1,1 +1,2 @@
 This is a temporary file for git tutorial and this file is present in main branch
+This is a temporary file present in second_branch , now will commit changes and make a merge rewuest in main branch
